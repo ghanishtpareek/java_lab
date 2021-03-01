@@ -7,7 +7,7 @@ public class Sum40 {
 		int a,sum=0;
 		for(a=45;a<=250;a++)
 		{
-			if(a%5==0)
+			if(a%5==0) // to check if number is divisible by 5
 			{
 	
 				System.out.println(a);
